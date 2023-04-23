@@ -1,5 +1,5 @@
-# Burger builder app
-The Burger builder app is a command-line app that demonstrates the use of various design patterns, 
+# Burger Maker App
+The Burger Maker App is a command-line app that demonstrates the use of various design patterns, 
 such as the Factory Pattern, Template Pattern, State Pattern, Decorator Pattern, and Composite
 Pattern. The objective was to use 1 Creational GoF pattern, 1 Behavior GoF pattern and 1 Structural 
 GoF pattern. The solution must use at least 4 non-Creational GoF patterns in total.
